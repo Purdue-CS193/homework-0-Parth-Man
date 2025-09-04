@@ -1,3 +1,12 @@
+# Parth Mandewalkar's First CS193 Homework
+
+Here are some of my favorite things about CS193:
+- My TAs are awesome. They are super kind, and willing to help out.
+- The class is very low commitment (at least compared to CS180), which makes things a lot less stressful.
+- There are multiple PSO meetings that I can attend for CS related help.
+- I have a bunch of friends in my 193 class who not only make things more interesting, but can also help me out with some stuff.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
